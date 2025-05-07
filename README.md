@@ -38,8 +38,13 @@ ads = analyzer.generate_personalized_ad(1)
 
 # Mensagem personalizada
 message = analyzer.generate_personalized_message(1)  
+![{D4CF18CA-4E7E-40A7-9ECE-5375CECF49D7}](https://github.com/user-attachments/assets/f2d3f393-25bd-417d-a74b-6ccad9c11ef8)
+
+
 
 🔗 Links Úteis
-IBM Watson NLU
-Python SDK
+
+[IBM Watson NLU](https://cloud.ibm.com/apidocs/natural-language-understanding)
+
+[Python SDK](https://github.com/watson-developer-cloud/python-sdk)
 
