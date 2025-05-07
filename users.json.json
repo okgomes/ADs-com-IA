@@ -1,0 +1,212 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "João Silva",
+            "email": "joao@email.com",
+            "age": 28,
+            "gender": "male",
+            "location": "São Paulo",
+            "interests": ["tecnologia", "esportes", "viagens", "games"],
+            "browsing_history": [
+                {
+                    "page_title": "Novos smartphones 2023",
+                    "content": "Review dos melhores smartphones com IA avançada que chegaram ao mercado, comparando câmeras, performance e bateria.",
+                    "time_spent": 240,
+                    "timestamp": "2023-05-15T10:30:00"
+                },
+                {
+                    "page_title": "Campeonato de futebol",
+                    "content": "Resultados detalhados do último jogo do campeonato nacional com análise tática e desempenho dos jogadores.",
+                    "time_spent": 125,
+                    "timestamp": "2023-05-18T19:45:00"
+                },
+                {
+                    "page_title": "Melhores destinos 2023",
+                    "content": "Guia completo dos 10 melhores destinos internacionais para mochileiros em 2023, com dicas de hospedagem e custos.",
+                    "time_spent": 180,
+                    "timestamp": "2023-06-02T14:20:00"
+                }
+            ],
+            "purchase_history": [
+                {
+                    "product": "Smartphone XYZ Pro",
+                    "category": "tecnologia",
+                    "subcategory": "celulares",
+                    "value": 4599.90,
+                    "date": "2023-04-10",
+                    "rating": 4.5
+                },
+                {
+                    "product": "Fone Bluetooth Elite",
+                    "category": "tecnologia",
+                    "subcategory": "acessorios",
+                    "value": 599.90,
+                    "date": "2023-05-22",
+                    "rating": 4.0
+                }
+            ],
+            "search_history": [
+                "melhor smartphone para fotos",
+                "jogos de futebol hoje",
+                "passagens aéreas promocionais"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Maria Souza",
+            "email": "maria@email.com",
+            "age": 35,
+            "gender": "female",
+            "location": "Rio de Janeiro",
+            "interests": ["moda", "beleza", "culinária", "decoracao"],
+            "browsing_history": [
+                {
+                    "page_title": "Tendências de moda outono/inverno 2023",
+                    "content": "Análise completa das cores, tecidos e cortes que estarão em alta na próxima estação, com dicas de como combinar.",
+                    "time_spent": 310,
+                    "timestamp": "2023-04-05T11:15:00"
+                },
+                {
+                    "page_title": "Receitas saudáveis para o dia a dia",
+                    "content": "50 receitas low-carb com ingredientes acessíveis, incluindo opções vegetarianas e veganas.",
+                    "time_spent": 275,
+                    "timestamp": "2023-05-12T09:30:00"
+                },
+                {
+                    "page_title": "Tutorial maquiagem profissional",
+                    "content": "Passo a passo para fazer maquiagem profissional em casa, com recomendações de produtos para diferentes tipos de pele.",
+                    "time_spent": 195,
+                    "timestamp": "2023-06-01T16:45:00"
+                }
+            ],
+            "purchase_history": [
+                {
+                    "product": "Vestido Premium Plus Size",
+                    "category": "moda",
+                    "subcategory": "vestidos",
+                    "value": 399.90,
+                    "date": "2023-03-18",
+                    "rating": 5.0
+                },
+                {
+                    "product": "Kit Pincéis de Maquiagem",
+                    "category": "beleza",
+                    "subcategory": "maquiagem",
+                    "value": 249.90,
+                    "date": "2023-05-30",
+                    "rating": 4.8
+                }
+            ],
+            "search_history": [
+                "vestidos para festa 2023",
+                "receitas low-carb fáceis",
+                "melhor hidratante para pele seca"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Carlos Oliveira",
+            "email": "carlos@email.com",
+            "age": 42,
+            "gender": "male",
+            "location": "Belo Horizonte",
+            "interests": ["financas", "investimentos", "tecnologia", "carros"],
+            "browsing_history": [
+                {
+                    "page_title": "Como investir em ações",
+                    "content": "Guia completo para iniciantes no mercado de ações, com estratégias de longo prazo e análise de riscos.",
+                    "time_spent": 420,
+                    "timestamp": "2023-04-22T20:30:00"
+                },
+                {
+                    "page_title": "Novos modelos de SUV 2023",
+                    "content": "Comparativo dos melhores SUVs do ano, incluindo consumo, desempenho e preços.",
+                    "time_spent": 185,
+                    "timestamp": "2023-05-08T15:20:00"
+                },
+                {
+                    "page_title": "Aplicativos de gestão financeira",
+                    "content": "Review dos 5 melhores apps para controlar gastos e investimentos em 2023.",
+                    "time_spent": 150,
+                    "timestamp": "2023-06-05T11:10:00"
+                }
+            ],
+            "purchase_history": [
+                {
+                    "product": "Curso de Investimentos Premium",
+                    "category": "educacao",
+                    "subcategory": "financas",
+                    "value": 799.90,
+                    "date": "2023-02-15",
+                    "rating": 4.7
+                },
+                {
+                    "product": "Assinatura Revista Automotiva",
+                    "category": "automotivo",
+                    "subcategory": "assinaturas",
+                    "value": 129.90,
+                    "date": "2023-04-01",
+                    "rating": 4.3
+                }
+            ],
+            "search_history": [
+                "melhores fundos de investimento",
+                "previsão dólar 2023",
+                "carros com melhor custo-benefício"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Ana Santos",
+            "email": "ana@email.com",
+            "age": 29,
+            "gender": "female",
+            "location": "Porto Alegre",
+            "interests": ["yoga", "saude", "bemestar", "alimentacaosaudavel"],
+            "browsing_history": [
+                {
+                    "page_title": "Aulas de yoga para iniciantes",
+                    "content": "Sequência completa de posturas de yoga para iniciantes, com benefícios de cada posição e dicas de respiração.",
+                    "time_spent": 280,
+                    "timestamp": "2023-03-10T07:30:00"
+                },
+                {
+                    "page_title": "Dieta anti-inflamatória",
+                    "content": "Guia de alimentos que combatem inflamações no corpo, com cardápio semanal e receitas.",
+                    "time_spent": 210,
+                    "timestamp": "2023-04-18T12:45:00"
+                },
+                {
+                    "page_title": "Rotina de skincare matinal",
+                    "content": "Passo a passo para uma rotina de skincare eficiente de manhã, com recomendações de produtos para diferentes tipos de pele.",
+                    "time_spent": 165,
+                    "timestamp": "2023-05-25T09:15:00"
+                }
+            ],
+            "purchase_history": [
+                {
+                    "product": "Kit Yoga Premium (Mat + Blocos + Cinta)",
+                    "category": "fitness",
+                    "subcategory": "yoga",
+                    "value": 349.90,
+                    "date": "2023-01-20",
+                    "rating": 4.9
+                },
+                {
+                    "product": "Suplemento Vitamínico Completo",
+                    "category": "saude",
+                    "subcategory": "suplementos",
+                    "value": 189.90,
+                    "date": "2023-03-05",
+                    "rating": 4.6
+                }
+            ],
+            "search_history": [
+                "posturas de yoga para ansiedade",
+                "alimentos ricos em antioxidantes",
+                "melhor protetor solar facial"
+            ]
+        }
+    ]
+}
