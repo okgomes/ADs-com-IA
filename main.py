@@ -4,12 +4,12 @@ from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
 from ibm_watson.natural_language_understanding_v1 import Features, SentimentOptions, KeywordsOptions, CategoriesOptions
 
 # Configuração do Watson NLU
-authenticator = IAMAuthenticator('AxlF7ObW1b39dyQbcEXXQZodC8Nikn-dOOt80X6IakoK')
+authenticator = IAMAuthenticator('API_KEY')
 nlu = NaturalLanguageUnderstandingV1(
     version='2022-04-07',
     authenticator=authenticator
 )
-nlu.set_service_url('https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/69702664-0082-4635-a8b7-39e9813909e6')
+nlu.set_service_url('SERVICE_URL')
 
 class UserAnalyzer:
     def __init__(self, users_file='users.json'):
